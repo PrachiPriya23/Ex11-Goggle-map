@@ -108,8 +108,8 @@ A user wants to find a geographical location using a mobile application. The app
 
 ## 11. Student Details
 
-- **Name:** Suvendu Mata
-- **USN:** 25MCAR0136
+- **Name:** Prachi Priya
+- **USN:** 25MCAR0111
 - **Course:** Master of Computer Applications (MCA)
 - **University:** JAIN (Deemed-to-be University), Bengaluru
 
@@ -149,5 +149,3 @@ GoogleMapsDemo/
 The Android application was executed successfully. It displays an interactive map and provides location search and zoom controls.
 
 
-## Author
-**Suvendu Mata**
